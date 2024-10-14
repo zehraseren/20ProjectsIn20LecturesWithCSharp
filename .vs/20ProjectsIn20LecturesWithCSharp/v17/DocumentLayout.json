@@ -1,12 +1,86 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Hp\\Desktop\\Coding\\20ProjectsIn20LecturesWithCSharp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCF6130-2C2C-45D9-AEAF-0A723B352C87}|L02.DbFirstEFCustomer\\L02.DbFirstEFCustomer.csproj|c:\\users\\hp\\desktop\\coding\\20projectsin20lectureswithcsharp\\l02.dbfirstefcustomer\\frmcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFCF6130-2C2C-45D9-AEAF-0A723B352C87}|L02.DbFirstEFCustomer\\L02.DbFirstEFCustomer.csproj|solutionrelative:l02.dbfirstefcustomer\\frmcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCF6130-2C2C-45D9-AEAF-0A723B352C87}|L02.DbFirstEFCustomer\\L02.DbFirstEFCustomer.csproj|c:\\users\\hp\\desktop\\coding\\20projectsin20lectureswithcsharp\\l02.dbfirstefcustomer\\frmcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EFCF6130-2C2C-45D9-AEAF-0A723B352C87}|L02.DbFirstEFCustomer\\L02.DbFirstEFCustomer.csproj|solutionrelative:l02.dbfirstefcustomer\\frmcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCF6130-2C2C-45D9-AEAF-0A723B352C87}|L02.DbFirstEFCustomer\\L02.DbFirstEFCustomer.csproj|c:\\users\\hp\\desktop\\coding\\20projectsin20lectureswithcsharp\\l02.dbfirstefcustomer\\frmproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFCF6130-2C2C-45D9-AEAF-0A723B352C87}|L02.DbFirstEFCustomer\\L02.DbFirstEFCustomer.csproj|solutionrelative:l02.dbfirstefcustomer\\frmproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCF6130-2C2C-45D9-AEAF-0A723B352C87}|L02.DbFirstEFCustomer\\L02.DbFirstEFCustomer.csproj|c:\\users\\hp\\desktop\\coding\\20projectsin20lectureswithcsharp\\l02.dbfirstefcustomer\\frmproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EFCF6130-2C2C-45D9-AEAF-0A723B352C87}|L02.DbFirstEFCustomer\\L02.DbFirstEFCustomer.csproj|solutionrelative:l02.dbfirstefcustomer\\frmproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmCategory.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Coding\\20ProjectsIn20LecturesWithCSharp\\L02.DbFirstEFCustomer\\FrmCategory.cs",
+              "RelativeDocumentMoniker": "L02.DbFirstEFCustomer\\FrmCategory.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Coding\\20ProjectsIn20LecturesWithCSharp\\L02.DbFirstEFCustomer\\FrmCategory.cs",
+              "RelativeToolTip": "L02.DbFirstEFCustomer\\FrmCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T18:28:58.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmCategory.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Coding\\20ProjectsIn20LecturesWithCSharp\\L02.DbFirstEFCustomer\\FrmCategory.cs",
+              "RelativeDocumentMoniker": "L02.DbFirstEFCustomer\\FrmCategory.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Coding\\20ProjectsIn20LecturesWithCSharp\\L02.DbFirstEFCustomer\\FrmCategory.cs [Design]",
+              "RelativeToolTip": "L02.DbFirstEFCustomer\\FrmCategory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T18:28:55.426Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmProduct.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Coding\\20ProjectsIn20LecturesWithCSharp\\L02.DbFirstEFCustomer\\FrmProduct.cs",
+              "RelativeDocumentMoniker": "L02.DbFirstEFCustomer\\FrmProduct.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Coding\\20ProjectsIn20LecturesWithCSharp\\L02.DbFirstEFCustomer\\FrmProduct.cs",
+              "RelativeToolTip": "L02.DbFirstEFCustomer\\FrmProduct.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAqwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T17:47:41.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmProduct.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Coding\\20ProjectsIn20LecturesWithCSharp\\L02.DbFirstEFCustomer\\FrmProduct.cs",
+              "RelativeDocumentMoniker": "L02.DbFirstEFCustomer\\FrmProduct.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Coding\\20ProjectsIn20LecturesWithCSharp\\L02.DbFirstEFCustomer\\FrmProduct.cs [Design]",
+              "RelativeToolTip": "L02.DbFirstEFCustomer\\FrmProduct.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T17:46:01.595Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
